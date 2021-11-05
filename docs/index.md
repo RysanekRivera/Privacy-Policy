@@ -1,4 +1,7 @@
 ###Privacy Policy
+<head>
+ <title>Privacy Policy</title>
+ </head>
 <html>
 <body>
  <p>Thank you for downloading this app from Rysanek R. Development (“<b>we</b>,” “<b>us</b>,” or “<b>our</b>”). We are committed to protecting your personal information and your right to privacy. If you have any questions about this privacy notice or our practice with regard to your personal information, please contact us at <a>RysanekMobileDeveloper@gmail.com</a>.</p>
@@ -21,3 +24,4 @@ The purpose of this privacy no
 
 </body>
 </html>
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
