@@ -7,8 +7,8 @@
 <p>This privacy notice describes how we might use your information if you:</p>
 
  <ul>
-   <it>Download and use our mobile application StarLinx</it>
-   <it>Engage with us in other related ways</it>
+   <li>Download and use our mobile application StarLinx</li>
+   <li>Engage with us in other related ways</li>
   </ul>
   
   <p>In this privacy notice we refer to:</p>
