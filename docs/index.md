@@ -19,7 +19,7 @@
   <h3>1. WHAT INFORMATION DO WE COLLECT?</h3>
  <p>We do not collect any personal information for our products and services.</p>
  <h4>Information automatically collected</h4>
- <p><b><em>In short:</b> Some information such as IP address, browser and device characteristics are collected when you visit our app.</em</p>
+ <p><b><em>In short:</b> Some information such as IP address, browser and device characteristics are collected when you visit our app.</em></p>
  <p>The information provided uses third party websites or APIs that might collect information such as cookies, device type information, browser information, IP address, country and county location, information about how and when you are using our app and other techical information. This information is provided via APIs controlled by Google and it is necessary to maintain the security and funtionality of the app, provide internal app analytics and issue reporting purposes. We also have ads as a way to monetize the app that need to be tracked in order for us to get paid for showing them. There is no personal information involved in the tracking of the ads.</p>
  
  <p>The information that might be collected includes:</p>
@@ -57,18 +57,21 @@
   <p>All other individuals are defined as "non-residents"</p>
   <p>If this definition applies to you, you must adhere to certain rights and obligations regarding personal information.</p>
   <p><b>What categories of personal information do we collect?</b></p>
-  <div class="row">
-  <div class="column">
+  
    <ul style="list-style-type:square">
-   <li><b>Identifiers.</b> contact details such as: name, address, alias, phone number, email.</li>
+   <li><b>Identifiers.</b> contact details such as: name, address, alias, phone number, email. -- never collected</li>
+   <li><b>Personal Information under California Customer Records statute.</b> such as: name, address, employment, financial history. -- never collected</li>
+    <li><b>Protected classification characteristics under California or Federal law.</b> Gender, date of birth -- never collected</li>
+    <li><b>Commercial Information.</b> Transactions information, purchase history, financial details and payments information -- never collected</li>
+    <li><b>Biometric information.</b> Fingerprints and voiceprints -- never collected</li>
+    <li><b>Internet or network activity.</b> Browsing history, search history, online behavior, interest data -- never collected</li>
+    <li><b>Geolocation.</b> Device location -- never collected. regional location used in analytics API</li>
+    <li><b>Audio, electronic, visual, thermal, olfactory information.</b> Images, videos, audio -- never collected</li>
+    <li><b>Profesional information.</b> Employment, business related information -- never collected</li>
+    <li><b>Education information.</b> Educational records, etc. -- never collected</li>
   </ul>
-   </div>
-  <div class="column">
-   <ul style="list-style-type:square">
-   <li><b>Never Collected</li>
-  </ul>
-   </div>
-</div>
+   <p>If you have any other questions regarding this notice, you may email us at <a>RysanekMobileDeveloper@gmail.com</a></p>
+ <p>The contents or this notice are subject to change at any moment and without notice to consumer. For updated information you can contact us.</p>
   
 </body>
 </html>
