@@ -35,9 +35,9 @@
    <p><em><b>In short:</b> We are not resposible for the safety of any information that you share with third-party providers. We are not affiliated with anyone. If you visit third party websites in the browser of our app, you are at your own risk.</em></p>
  <p>While not recommended, our app's browser may allow you to visit other websites. It is not recommended to use it for other than the purpose of the app. We are not responsible for the use of your data by websited that you visit. The app may contain advertisements from third parties. We aer not affiliated with any advertiser. Use the advertiser links at your own risk. We use Google Admob for advertisement. The only security provided with these is the security provided by Google. We are not responsible for data breaches, hacks and stolen data, or data collection from links from advertisement presented in our app.</p>
 <h3>4. HOW LONG DO YOU KEEP INFORMATION?</h3>
-  <p>We do not collect, share or keep any information. We only receive statistical data provided by Google about how you use our app or if there are any problems encountered with our app</p> 
+  <p>We do not collect, share or keep any information. We only receive statistical data provided by Google about how you use our app or if there are any problems encountered with our app.</p> 
     <h3>5. HOW DO WE KEEP INFORMATION SAFE?</h3>
-  <p><em><b>In short:</b> We protect your information through Googles APIs</em></p>
+  <p><em><b>In short:</b> We protect your information through Googles APIs.</em></p>
  <p>We use Google APIs in order to protect your information. We do not collect information so the risk is minimal. However, we cannot guarantee that any of the APIs used in our app are 100% secure. Hackers, cybercriminals and unauthorized third parties could jeopardize the integrity and technology of a system. However, we strive to provide the most secure user experience possible.</p>
      <h3>6. WHAT ARE YOUR PRIVACY RIGHTS?</h3>
      <p><em><b>In short:</b> In some regions, such as the European Economic Area (EEA) and United Kingdom (UK), you have rights that allow you greater access to and control over your personal information. You may review, change or terminate your account at any time.</em></p>
