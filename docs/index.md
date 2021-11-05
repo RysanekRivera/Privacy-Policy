@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+###Privacy Policy
 <html>
 <body>
-<h1>Privacy Policy</h1>
-<p>Thank you for downloading this app from Rysanek R. Development (“we,” “us,” or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions about this privacy notice or our practice with regard to your personal information, please contact us at RysanekMobileDeveloper@gmail.com.</p>
+<p>Thank you for downloading this app from Rysanek R. Development (“we,” “us,” or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions about this privacy notice or our practice with regard to your personal information, please contact us at <a>RysanekMobileDeveloper@gmail.com</a>.</p>
 
 <p>This privacy notice describes how we might use your information if you:</p>
 
