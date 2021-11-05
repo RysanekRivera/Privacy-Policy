@@ -6,7 +6,7 @@
 
 <p>This privacy notice describes how we might use your information if you:</p>
 
- <ul>
+ <ul style="list-style-type:square">
    <li>Download and use our mobile application StarLinx</li>
    <li>Engage with us in other related ways</li>
   </ul>
